@@ -1,6 +1,7 @@
 {
   "tpl":{
     "bs-react-templates":{
+      "type":"react",
       "bs-umi-dva-antd-pc-template":{
         "img":"https://raw.githubusercontent.com/bs-config/bs-tplconfig/master/assets/bs-react-templates/bs-umi-dva-antd-pc-template.png",
         "modules":{
@@ -15,10 +16,11 @@
       }
     },
     "bs-vue-templates":{
+      "type":"vue"
 
     },
     "bs-angular-templates":{
-
+      "type":"angular"
     }
   }
 }
