@@ -2,13 +2,13 @@
   "tpl":{
     "bs-react-templates":{
       "bs-umi-dva-antd-pc-template":{
-        "img":"",
+        "img":"https://raw.githubusercontent.com/bs-config/bs-tplconfig/master/assets/bs-react-templates/bs-umi-dva-antd-pc-template.png",
         "modules":{
 
         }
       },
       "bs-umi-dva-antd-mobile-template":{
-        "img":"",
+        "img":"https://raw.githubusercontent.com/bs-config/bs-tplconfig/master/assets/bs-react-templates/bs-umi-dva-antd-mobile-template.png",
         "modules":{
           
         }
