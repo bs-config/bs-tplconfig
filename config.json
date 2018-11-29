@@ -18,11 +18,16 @@
       }
     },
     "bs-vue-templates":{
-      "type":"vue"
+      "type":"vue",
+      "templates":{
 
+      }
     },
     "bs-angular-templates":{
-      "type":"angular"
+      "type":"angular",
+      "templates":{
+        
+      }
     }
   }
 }
