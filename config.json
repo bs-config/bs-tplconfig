@@ -1,0 +1,24 @@
+{
+  "tpl":{
+    "bs-react-templates":{
+      "bs-umi-dva-antd-pc-template":{
+        "img":"",
+        "modules":{
+
+        }
+      },
+      "bs-umi-dva-antd-mobile-template":{
+        "img":"",
+        "modules":{
+          
+        }
+      }
+    },
+    "bs-vue-templates":{
+
+    },
+    "bs-angular-templates":{
+
+    }
+  }
+}
