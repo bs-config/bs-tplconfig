@@ -12,7 +12,9 @@
         "bs-umi-dva-antd-mobile-template":{
           "img":"https://raw.githubusercontent.com/bs-config/bs-tplconfig/master/assets/bs-react-templates/bs-umi-dva-antd-mobile-template.png",
           "modules":{
-            
+            "aa":{},
+            "bb":{},
+            "cc":{}
           }
         }
       }
