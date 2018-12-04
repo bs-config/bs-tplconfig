@@ -6,7 +6,8 @@
         "bs-umi-dva-antd-pc-template":{
           "img":"https://raw.githubusercontent.com/bs-config/bs-tplconfig/master/assets/bs-react-templates/bs-umi-dva-antd-pc-template.png",
           "modules":{
-            "crud":{}
+            "crud":{},
+            "error":{}
           }
         },
         "bs-umi-dva-antd-mobile-template":{
