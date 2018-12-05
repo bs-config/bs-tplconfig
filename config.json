@@ -23,7 +23,7 @@
     "bs-vue-templates":{
       "type":"vue",
       "templates":{
-
+        "error":{}
       }
     },
     "bs-angular-templates":{
