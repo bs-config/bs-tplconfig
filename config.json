@@ -31,6 +31,14 @@
       "templates":{
         
       }
+    },
+    "bs-weixin-templates":{
+      "type":"weixin",
+      "templates":{
+        "sc-weapp-master":{
+          "img":"https://raw.githubusercontent.com/bs-config/bs-tplconfig/master/assets/bs-weixin-templates/sc-weapp-master.png"
+        }
+      }
     }
   }
 }
