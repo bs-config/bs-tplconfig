@@ -4,13 +4,21 @@
       "type":"react",
       "templates":{
         "bs-umi-dva-antd-pc-template":{
+          "title":"react后台管理系统",
+          "repository":"https://github.com/bs-react-templates/bs-umi-dva-antd-pc-template.git",
           "img":"https://raw.githubusercontent.com/bs-config/bs-tplconfig/master/assets/bs-react-templates/bs-umi-dva-antd-pc-template.png",
           "modules":{
-            "crud":{},
-            "error":{}
+            "crud":{
+              "title":"增删改查模板"
+            },
+            "error":{
+              "title":"错误模板"
+            }
           }
         },
         "bs-umi-dva-antd-mobile-template":{
+          "title":"react移动端模板",
+          "repository":"https://github.com/bs-react-templates/bs-umi-dva-antd-mobile-template.git",
           "img":"https://raw.githubusercontent.com/bs-config/bs-tplconfig/master/assets/bs-react-templates/bs-umi-dva-antd-mobile-template.png",
           "modules":{
             "aa":{},
@@ -20,22 +28,12 @@
         }
       }
     },
-    "bs-vue-templates":{
-      "type":"vue",
-      "templates":{
-        "error":{}
-      }
-    },
-    "bs-angular-templates":{
-      "type":"angular",
-      "templates":{
-        
-      }
-    },
     "bs-weixin-templates":{
       "type":"weixin",
       "templates":{
         "sc-weapp-master":{
+          "title":"微信小程序组件库",
+          "repository":"https://github.com/bs-weixin-templates/sc-weapp-master.git",
           "img":"https://raw.githubusercontent.com/bs-config/bs-tplconfig/master/assets/bs-weixin-templates/sc-weapp-master.png"
         }
       }
